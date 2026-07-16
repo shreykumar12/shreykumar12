@@ -2,7 +2,7 @@
 
 🎓 I'm a CS student @ Ohio State
 
-🛠️ Currently an Engineering Intern @ Liberty Mutual
+🗽 Currently an Engineering Intern @ Liberty Mutual
 
 🧠 [NeetCode](https://github.com/shreykumar12/neetcode-submissions) — every submission synced below
 
