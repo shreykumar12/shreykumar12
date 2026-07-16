@@ -8,4 +8,4 @@
 
 <img src="assets/neetcode-chart.svg" alt="NeetCode submissions chart" height="88" />
 
-**Find me here:** [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE) · [Email](mailto:shreyk0405@gmail.com)
+**Find me here:** [LinkedIn](https://www.linkedin.com/in/shreykumar1) · [Email](mailto:shreyk0405@gmail.com)
