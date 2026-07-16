@@ -1,12 +1,10 @@
 ### Hey, I'm Shrey 👋
 
-🎓 I'm a CS student *(your school here)*
+🎓 I'm a CS student @ Ohio State
 
-🛠️ Currently engineering @ Liberty Mutual
+🛠️ Currently an Engineering Intern @ Liberty Mutual
 
-💻 Building [SwiftTrip](https://github.com/shreykumar12/SwiftTrip) — a full-stack travel planning app
-
-🧠 Grinding [NeetCode](https://github.com/shreykumar12/neetcode-submissions) — every submission synced below
+🧠 [NeetCode](https://github.com/shreykumar12/neetcode-submissions) — every submission synced below
 
 <img src="assets/neetcode-chart.svg" alt="NeetCode submissions chart" height="88" />
 
