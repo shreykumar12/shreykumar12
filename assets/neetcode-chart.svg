@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="88" viewBox="0 0 420 88" role="img" aria-label="NeetCode submissions: 282 total">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="88" viewBox="0 0 420 88" role="img" aria-label="NeetCode submissions: 286 total">
   <style>text { font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8b949e; }</style>
   <text x="0" y="14">NeetCode submissions · last 26 weeks</text>
-  <text x="420" y="14" text-anchor="end" font-weight="600" fill="#2ea043">282 total</text>
+  <text x="420" y="14" text-anchor="end" font-weight="600" fill="#2ea043">286 total</text>
   <rect x="0.0" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
   <rect x="16.3" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
   <rect x="32.5" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
@@ -15,18 +15,18 @@
   <rect x="162.7" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
   <rect x="179.0" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
   <rect x="195.2" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
-  <rect x="211.5" y="61.0" width="13.3" height="13.0" rx="2" fill="#2ea043"><title>19 submissions</title></rect>
-  <rect x="227.8" y="28.0" width="13.3" height="46.0" rx="2" fill="#2ea043"><title>67 submissions</title></rect>
-  <rect x="244.0" y="43.1" width="13.3" height="30.9" rx="2" fill="#2ea043"><title>45 submissions</title></rect>
+  <rect x="211.5" y="57.2" width="13.3" height="16.8" rx="2" fill="#2ea043"><title>26 submissions</title></rect>
+  <rect x="227.8" y="28.0" width="13.3" height="46.0" rx="2" fill="#2ea043"><title>71 submissions</title></rect>
+  <rect x="244.0" y="52.0" width="13.3" height="22.0" rx="2" fill="#2ea043"><title>34 submissions</title></rect>
   <rect x="260.3" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
   <rect x="276.6" y="74.0" width="13.3" height="0.0" rx="2" fill="#2ea043"><title>0 submissions</title></rect>
-  <rect x="292.8" y="67.8" width="13.3" height="6.2" rx="2" fill="#2ea043"><title>9 submissions</title></rect>
-  <rect x="309.1" y="68.5" width="13.3" height="5.5" rx="2" fill="#2ea043"><title>8 submissions</title></rect>
-  <rect x="325.4" y="52.0" width="13.3" height="22.0" rx="2" fill="#2ea043"><title>32 submissions</title></rect>
-  <rect x="341.7" y="54.8" width="13.3" height="19.2" rx="2" fill="#2ea043"><title>28 submissions</title></rect>
-  <rect x="357.9" y="50.7" width="13.3" height="23.3" rx="2" fill="#2ea043"><title>34 submissions</title></rect>
-  <rect x="374.2" y="60.3" width="13.3" height="13.7" rx="2" fill="#2ea043"><title>20 submissions</title></rect>
-  <rect x="390.5" y="70.6" width="13.3" height="3.4" rx="2" fill="#2ea043"><title>5 submissions</title></rect>
-  <rect x="406.7" y="63.7" width="13.3" height="10.3" rx="2" fill="#2ea043"><title>15 submissions</title></rect>
+  <rect x="292.8" y="68.2" width="13.3" height="5.8" rx="2" fill="#2ea043"><title>9 submissions</title></rect>
+  <rect x="309.1" y="68.8" width="13.3" height="5.2" rx="2" fill="#2ea043"><title>8 submissions</title></rect>
+  <rect x="325.4" y="52.0" width="13.3" height="22.0" rx="2" fill="#2ea043"><title>34 submissions</title></rect>
+  <rect x="341.7" y="56.5" width="13.3" height="17.5" rx="2" fill="#2ea043"><title>27 submissions</title></rect>
+  <rect x="357.9" y="52.6" width="13.3" height="21.4" rx="2" fill="#2ea043"><title>33 submissions</title></rect>
+  <rect x="374.2" y="61.0" width="13.3" height="13.0" rx="2" fill="#2ea043"><title>20 submissions</title></rect>
+  <rect x="390.5" y="70.8" width="13.3" height="3.2" rx="2" fill="#2ea043"><title>5 submissions</title></rect>
+  <rect x="406.7" y="61.7" width="13.3" height="12.3" rx="2" fill="#2ea043"><title>19 submissions</title></rect>
   <line x1="0" y1="74.5" x2="420" y2="74.5" stroke="#8b949e" stroke-opacity="0.35"/>
 </svg>
